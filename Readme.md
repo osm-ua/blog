@@ -1,3 +1,3 @@
 # OSM Ukraine blog platform
 
-Platfrom for blogposting from Ukrain OSM Community
+Platfrom for blogposting from Ukraine OSM Community
