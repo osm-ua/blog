@@ -1,0 +1,28 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title:
+  en: OSM Ukraine
+  uk: ОСМ Україна
+email: your-email@domain.com
+description:
+  en: Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+  uk: Напишіть чудовий опис свого нового сайту тут. Ви можете редагувати цей рядок у _config.yml. Він з'явиться у вашому заголовку мета (для результатів пошуку Google) і в описі вашого сайту feed.xml.
+index:
+  en:
+  uk: index.uk.html
+feed:
+  en: /feed.xml
+  uk: /feed.uk.xml
+baseurl: # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+twitter_username: osm_ua
+github_username:  osm-ua
+
+# Build settings
+markdown: kramdown

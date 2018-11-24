@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Ласкаво просимо до Jekyll!"
+ref: welcome
+date:   2016-02-29 09:48:44 +0100
+#categories: jekyll update
+lang: uk
+---
+Ви знайдете це повідомлення у каталозі `_posts`. Перейдіть вперед, відредагуйте його та перебудуйте сайт, щоб побачити зміни. Ви можете перебудувати сайт різними способами, але найпоширенішим способом є запуск `jekyll serve`, який запускає веб-сервер і автоматично відновлює ваш сайт, коли файл оновлюється.
+
+Щоб додати нові повідомлення, просто додайте файл до каталогу `_posts`, який слідує конвенції` YYYY-MM-DD-name-of-post-end` і містить необхідну суть справи. Погляньте на джерело цього повідомлення, щоб отримати уявлення про те, як це працює.
+
+Jekyll також пропонує потужну підтримку фрагментів коду:
+
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
+Перегляньте документи [Jekyll docs][jekyll-docs], щоб дізнатись більше про те, як максимально ефективно використовувати Jekyll. Файл усіх запитів про помилки / функції на [Jekyll's GitHub repo][jekyll-gh]. Якщо у вас є запитання, ви можете попросити їх на [Jekyll Talk][jekyll-talk].
+
+[jekyll-docs]: http://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
