@@ -7,12 +7,12 @@
 
 # Site settings
 title:
-  en: OSM Ukraine
-  uk: ОСМ Україна
-email: your-email@domain.com
+  en: OpenStreetMap Ukraine
+  uk: OpenStreetMap Україна
+email: openstreetmap.ua@gmail.com
 description:
-  en: Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-  uk: Напишіть чудовий опис свого нового сайту тут. Ви можете редагувати цей рядок у _config.yml. Він з'явиться у вашому заголовку мета (для результатів пошуку Google) і в описі вашого сайту feed.xml.
+  en: The blog of the Ukrainian OpenStreetMap community
+  uk: Блог української спільноти OpenStreetMap
 index:
   en:
   uk: index.uk.html
