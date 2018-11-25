@@ -1,0 +1,25 @@
+---
+layout: "post"
+title: "Українська спільнота заявляє про незгоду з рішенням DWG"
+date: "2018-11-19 12:17"
+ref: disagreement
+lang: uk
+---
+
+Українська спільнота з великим сумом дізналась про недавнє рішення Data Working Group щодо Криму.
+
+Згідно з цим рішенням кордони України мають бути звужені на карті OpenStreetMap, а територія Криму не має бути включена до складу території України, мотивуючи це тим, що Україна не контролює територію Криму:
+
+> “Crimea shall be part of the Russia administrative relation and not the Ukraine one as long as Russia has on-the-ground control in Crimea.”
+
+Ми заявляємо про незгоду з цим рішенням, оскільки воно посягає на суверенітет України, як незалежної держави, кордони якої визнані міжнародним суспільством, країнами ЄС, Великобританією, США, ООН, НАТО та іншими міжнародними організаціями, та протирічить принципам позначення спірних територій (адміністративних одиниць) і не відповідає сталій практиці тегування таких територій (Північний Кіпр, Придністров'я, Абхазія тощо). Ставить під загрозу можливість користування даними ОСМ міжнародним суспільством, з огляду на вже запроваджені санкції до осіб та організацій винних в анексії українських територій.
+
+Представники української спільноти звернулись зі скаргою на такі дії Data Working Group до OpenStreetMap Foundation, направили звернення до [Міністерство закордонних справ України / MFA of Ukraine](https://www.facebook.com/UkraineMFA), [Embassy of Ukraine to the UK](https://www.facebook.com/ukraine.in.uk/), [Qırımtatar Milliy Meclisi](https://www.facebook.com/meclis.org), Рефату Чубарову з проханням застосувати всі можливі засоби для засудження підтримки факту агресії та нехтування принципами міжнародного права.
+
+Дані OpenStreetMap використовують [Wikipedia](https://www.facebook.com/wikipedia/?), [Facebook](https://www.facebook.com/facebook/), [Apple](https://www.facebook.com/apple/), [Microsoft](https://www.facebook.com/Microsoft/), [United Nations](https://www.facebook.com/unitednations/), [World Bank](https://www.facebook.com/worldbank/), державні установи різних держав, громадські організації по всьому світу. OpenStreetMap є важливим для [International Federation of Red Cross and Red Crescent Societies](https://www.facebook.com/IFRC/), оскільки дає можливість оперативно картографувати території стихійних лих. За даними SimilarWeb, тільки сайт [openstreetmap.org](https://www.openstreetmap.org/) щомісяця переглядають 10 мільйонів користувачів, крім того що самі дані проекту використовуються тисячами інших сервісів та ресурсів в Інтернеті самостійно. Не можна допустити щоб всі вони бачили Україну без Криму, адже Крим - це Україна.
+
+Сподіваємось на широку підтримку українського суспільства, та всього цивілізованого світу щодо неприпустимості підтримання агресії та порушення норм міжнародного права.
+
+#CrimeaIsUkraine #КримЦеУкраїна
+
+*Джерело: https://www.facebook.com/openstreetmapua/posts/774448879558074*
