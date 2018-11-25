@@ -2,7 +2,7 @@
 layout: "post"
 title: "The Ukrainian community declares disagreement with the DWG decision"
 date: "2018-11-19 12:17"
-ref: disagrement
+ref: disagreement
 lang: en
 ---
 Ukrainian OpenStreetMap community is deeply disturbed after inspecting the recent decision of the Data Working Group concerning Crimea.
