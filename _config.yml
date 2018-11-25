@@ -23,6 +23,7 @@ baseurl: # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 twitter_username: osm_ua
 github_username:  osm-ua
+fb_username: openstreetmapua
 
 # Build settings
 markdown: kramdown
