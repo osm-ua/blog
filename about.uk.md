@@ -5,16 +5,12 @@ ref: about
 lang: uk
 ---
 
-Це тема типова тема Jekyll. Ви можете дізнатись більше про способи персоналізації власної теми, а також до документації Jekyll на сайті [jekyllrb.com](http://jekyllrb.com/)
+## Ласкаво просимо до української спільноти OpenStreetMap!
 
-Ви можете знайти цю багатомовну тему на:
-{% include icon-github.html username = "sylvaindurand"%} /
-[multilingual-jekyll](https://github.com/sylvaindurand/multilingual-jekyll)
+[OpenStreetMap](http://openstreetmap.org/) – міжнародний проект метою якого є створення вільної, відкритої мапи світу!
 
-Оригінальні сирці для нової теми Jekyll можна знайти за адресою:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+Велика кількість учасників по всьому світу прямо зараз додають дані про місцевість в якій вони живуть, допомагають наповнити мапу даними про об’єкти інфраструктури поруч з ними, приймають участь у створенні мапи для допомоги постраждалим у зонах стихійних лих, катастроф й таке інше.
 
-Ви можете знайти сирці Jekyll на
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Дані, зібрані учасниками проекту, є вільними, відкритими та безкоштовними. Вони отримані з відкритих джерел, [передані урядовими та комерційними організаціями](http://www.openstreetmap.org/copyright#contributors), а також зібрані в ході досліджень місцевості рядовими учасниками проекту.
+
+OpenStreetMap – це *відкриті дані*: ви можете вільно використовувати їх для будь-яких цілей до тих пір, поки ви згадуєте [OpenStreetMap і його учасників](http://www.openstreetmap.org/copyright).
