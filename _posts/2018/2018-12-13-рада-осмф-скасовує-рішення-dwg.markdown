@@ -1,0 +1,23 @@
+---
+layout: "post"
+title: "Рада Фундації OpenStreetMap скасовує рішення Data Working Group"
+date: "2018-12-13 21:43"
+lang: uk
+ref: dwg-cancel
+---
+В понеділок 10 грудня 2018 року секретар Ради директорів Фундації OpenStreetMap повідомив у списку розсилки[^1] про скасування Радою недавнього рішення Data Working Group щодо належності Криму[^2]. Відповідно до цього рішення Крим мав позначатись виключно як частина Россії. Це викликало обурення з боку української спільноти OpenStreetMap та звернення до Ради Фундації OpenStreetMap зі скаргою на це рішення DWG.
+
+На поточний момент застосовується рішення яке було прийняте у червні 2014 року[^3]. Відповідно до нього Крим включено до складу України та Росії одночасно і він може позначатись, як спірна територія.
+
+Більш докладне роз'яснення з боку Ради має бути опубліковане найближчим часом.
+
+<div align="center">
+  <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fopenstreetmapua%2Fposts%2F786673821668913&width=500&show_text=true&height=504&appId" width="500" height="504" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+</div>
+<br/>
+
+----
+
+[^1]: <https://lists.openstreetmap.org/pipermail/talk/2018-December/081781.html>
+[^2]: <https://wiki.osmfoundation.org/wiki/Working_Group_Minutes/DWG_2018-11-14_Crimea>
+[^3]: <https://wiki.osmfoundation.org/wiki/Working_Group_Minutes/DWG_2014-06-05_Special_Crimea>
