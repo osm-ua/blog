@@ -5,7 +5,7 @@ layout:
 <html lang="uk">
 <head>
     <meta charset="utf-8">
-    <title>A{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title[page.lang] | escape }}{% endif %}</title>
+    <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title[page.lang] | escape }}{% endif %}</title>
 </head>
 <body>
 <script>
