@@ -2,6 +2,7 @@
 layout: default
 ref: index
 lang: uk
+permalink: /uk/
 ---
 
 <div class="home">
