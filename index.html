@@ -1,16 +1,19 @@
+---
+layout: 
+---
 <!DOCTYPE html>
 <html lang="uk">
 <head>
     <meta charset="utf-8">
-    <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title[page.lang] | escape }}{% endif %}</title>
+    <title>A{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title[page.lang] | escape }}{% endif %}</title>
 </head>
 <body>
 <script>
     var lang = navigator.language || navigator.userLanguage;
     if (lang.indexOf('uk') == 0)
-        window.location = '/uk/';
+        window.location = '{{site.baseurl}}/uk/';
     else
-        window.location = '/en/';
+        window.location = '{{site.baseurl}}/en/';
 </script>
 </body>
 </html>
