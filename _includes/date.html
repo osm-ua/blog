@@ -1,5 +1,5 @@
 {% if page.lang == 'uk' %}
-    {{ include.date | date: "%-d" }}
+    {{ include.date | date: "%d" }}
     {% assign m = include.date | date: "%-m" %}
     {% case m %}
             {% when  '1' %}Січ
