@@ -5,7 +5,7 @@ date: "2018-12-07 21:05"
 lang: en
 ref: new-requiest
 ---
-> This text was sent to the OSMF Board with a request to provide information on the current state of affairs related to [the previously filed complaint]({{site.baseurl}}/2018/11/19/ukrainian-community-declares-disagreement-with-dwg.html).
+> This text was sent to the OSMF Board with a request to provide information on the current state of affairs related to [the previously filed complaint]({{site.baseurl}}{% post_url 2018/2018-11-19-ukrainian-community-declares-disagreement-with-dwg %}).
 
 ------
 
