@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Про нас
+permalink: /about/uk/
 ref: about
 lang: uk
 ---
