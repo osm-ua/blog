@@ -1,0 +1,21 @@
+{% if page.lang == 'uk' %}
+    {{ include.date | date: "%d" }}
+    {% assign m = include.date | date: "%-m" %}
+    {% case m %}
+            {% when  '1' %}Січ
+            {% when  '2' %}Лют
+            {% when  '3' %}Бер
+            {% when  '4' %}Кві
+            {% when  '5' %}Тра
+            {% when  '6' %}Чер
+            {% when  '7' %}Лип
+            {% when  '8' %}Сер
+            {% when  '9' %}Вер
+            {% when '10' %}Жов
+            {% when '11' %}Лис
+            {% when '12' %}Гру
+    {% endcase %}
+    {{ include.date | date: "%Y" }}
+  {% else %}
+    {{ include.date | date: "%b %-d, %Y" }}
+{% endif %}
