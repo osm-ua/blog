@@ -25,6 +25,7 @@ permalink: pretty
 twitter_username: osm_ua
 github_username:  osm-ua
 fb_username: openstreetmapua
+timezone: Europe/Kiev
 
 # Build settings
 markdown: kramdown
