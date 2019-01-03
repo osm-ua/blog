@@ -14,13 +14,14 @@ description:
   en: The blog of the Ukrainian OpenStreetMap community
   uk: Блог української спільноти OpenStreetMap
 index:
-  en:
-  uk: index.uk.html
+  en: en/
+  uk: uk/
 feed:
-  en: /feed.xml
+  en: /feed.en.xml
   uk: /feed.uk.xml
 baseurl: # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
+permalink: pretty
 twitter_username: osm_ua
 github_username:  osm-ua
 fb_username: openstreetmapua
