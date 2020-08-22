@@ -5,82 +5,51 @@ date: "2020-08-22 21:00"
 lang: uk
 ref: "pology-mapathon"
 ---
-Результати мапатону до 16-ти річчя OpenStreetMap
 
 ![](https://lh4.googleusercontent.com/kIEFiVSOp2ZEHj4gZfLXdK7crxHcSEGwPbH-Su2Q89_1mymIsZ3dE51tTrNNH68fhuIPRDA99hIQkcZN8wAx4XAcNeiyILngfkGGhjR9Wr9l7s82d8rQc9XPNCi3fAPYdjbRws-L)
 
-  
-
 8 серпня на честь святкування 16 річниці проекту OpenStreetMap українська спільнота організувала мапатон (від англ. map + marathon), метою якого було замапити одне з міст в Україні, де в ОСМ була обмежена кількість даних. Вибір пав на місто Пологи, Запорізької області. Про підготовку, проведення та результати мапатону читайте далі.
-
-  
 
 Отже, власне чому було обрано Пологи. Першочергово була ідея замапити якесь місто з населенням 16000 осіб (ну прив’язка до 16-річчя проекту і всяке таке :). Керувались кількома аспектами – в місті має бути небагато даних, мають бути якісні джерела придатні для дистанційного мапінгу (фонові знімки, знімки [Mapillary](https://mapillary.com) чи генплан).
 
-  
-
 От приклад, як виглядала робоча табличка.
-
-  
 
 ![](https://lh3.googleusercontent.com/ahH0SMNTgtE5GJT0Q1OfV07m9uQaHBWmEeCVkA0rzEagtHtaUs_-eXPaA8XKCfik04EDp83ipR4pGyz_-Bt0klt9KXNvrZtGoDTxBG4LDP6rz7Agjch7_JL7aqN1keHksAiLgnY8)
 
 В результаті зупинились на місті Пологи, для якого знайшовся сучасний генплан ([Alex Pro 5](https://www.openstreetmap.org/user/Alex%20Pro%205), привіт), доволі свіжі аерофотознімки, що їх надають для потреб спільноти ОСМ Бінг, Максар та інші постачальники. Після нетривалих обговорень серед [спільноти](https://t.me/osmUA) взялись за підготовку мапатону саме для цього міста.
 
-  
-
 За для уникнень конфліктів правок та запобігання дублювання роботи серед учасників було створено проект в Менеджері завдань, який підтримується та розвивається [HOTOSM](https://tasks.hotosm.org). Ініціативні учасники гуртом підготували опис та інструкції, а [andygol](https://www.openstreetmap.org/user/andygol) допоміг у створенні та публікації проекту в Менеджері завдань.
-
-  
 
 [Gontsa](https://www.openstreetmap.org/user/Gontsa) створив цей банер, ви його вже бачили в анонсі мапатону.
 
 ![](https://lh3.googleusercontent.com/oKukvdXs78MEob24cHgdwk1zI9PlC0wQaiBZjuw5Aj3PiWfesqA5P5A2W5zWU7Pfi0rKaK78wO4M-5HG1OG8EHwS7fSsO3jz4jagTClh02bl40HBi6QJfRjqGV4KDpBCrc5cWoOv)
 
-  
-
 [darkonus](https://www.openstreetmap.org/user/darkonus) опрацював зображення з генпланом, перетворивши його на тайли узгоджені зі знімками Bing, для ще більш зручного мапінгу. [ququruzka](https://www.openstreetmap.org/user/ququruzka) це все залив на свій сервер, щоб учасникам не доводилося завантажувати весь набір даних, а тільки використовувати шматочок генплану для ділянки над якою вони працюють.
-
-  
 
 За задумом весь проект мав бути закінчений впродовж вихідних 8-9 серпня, але "Пологи" виявились затяжними:
 
-  
-
 -   За фактом, в перші два дні замапили більше половини завдань з проекту, а решту разом з перевіркою закінчили вже на тижні. :)
-    
+
 -   Загалом в рамках мапатону було надіслано [923 набори змін](https://osmcha.org/filters?filters=%7B%22comment%22%3A%5B%7B%22label%22%3A%22osm16ua%22%2C%22value%22%3A%22osm16ua%22%7D%5D%2C%22date__gte%22%3A%5B%7B%22value%22%3A%22%22%2C%22label%22%3A%22%22%7D%5D%7D) (станом на 10:30 22 серпня)
-    
--   Відбулися відеостріми від [Dyoma](https://www.openstreetmap.org/user/Dyoma): [[1](https://www.youtube.com/watch?v=-9exEJG81W0)], [[2](https://www.youtube.com/watch?v=qjb36-8UxmQ)] , [velmyshanovnyi](https://www.openstreetmap.org/user/velmyshanovnyi) – [[1](https://www.youtube.com/watch?v=O_Q5XTW04xo)], a [ID’s](https://www.openstreetmap.org/user/ID%60s) взагалі провів 24-годинний стрім (жаль, що на платформі Twitch і відео нема).
-    
+
+-   Відбулися відеостріми від [Dyoma](https://www.openstreetmap.org/user/Dyoma) [^1]<sup>,</sup> [^2], [velmyshanovnyi](https://www.openstreetmap.org/user/velmyshanovnyi) [^3], a [ID’s](https://www.openstreetmap.org/user/ID%60s) взагалі провів 24-годинний стрім (жаль, що на платформі Twitch і відео нема).
+
 -   загалом участь в мапінгу взяло 22 учасники, які мапили та перевіряли дані внесені іншими учасниками. Нижче скріншот з Менеджера завдань:
-    
 
 ![](https://lh5.googleusercontent.com/CN4Qf6CZX7dcv970ifRl9DcVf3mf4sJss7KG_tVKN10nCsRMyQeAQktySTqEXhUm0kDKCFBdqGlCQYjv61EUG36fT96N97VACpzz09dilobEVHnFY_2rgFkGa7EXzjKqaFyri33d)
 
 Ну і головні результати – власне сама мапа
 
-  
-
-Пологи - 14 зум ДО та ПІСЛЯ мапатону (картинка клікабельна)
-
-[![](https://lh6.googleusercontent.com/FegdfCPHfIIAfxmbRkOSsvXyufFU_And9epwHXWwnER75VhMEiGKc-2Eb1c422GNxEgsd71bj8MhB71kVRHzNdCOrWDUDSggcqLS-qRiXrAjM8HQdI5bjzs2jzxshtM51jGX55sI)](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=2eae170a-e44f-11ea-bf88-a15b6c7adf9a)
-
-  
+Пологи - 14 зум ДО та ПІСЛЯ мапатону (потягніть бігунок праворуч-ліворуч, щоб порівняти)
 
 <iframe frameborder="0" class="juxtapose" width="100%" height="400" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=2eae170a-e44f-11ea-bf88-a15b6c7adf9a"></iframe>
 
-  
+Центр міста ДО та ПІСЛЯ мапатону (потягніть бігунок праворуч-ліворуч, щоб порівняти)
 
-Центр міста ДО та ПІСЛЯ мапатону (картинка клікабельна)
-
-[![](https://lh4.googleusercontent.com/pKFidN3BSkX_v7Ag9eQhZt2nkA_kE2p6IeeO2Ba_NE_TqIlYrtRIVHAXaCV9-3w4qkn5DKOfkivVXQ9KWLZ6Qe3ITBxGK8QkXLIXwie6HEDl35b5NsJRtWpxzj-qsyRFp_YH8Bn5)](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=23385238-e44e-11ea-bf88-a15b6c7adf9a)
-
-  
-  
-
-<iframe frameborder="0" class="juxtapose" width="100%" height="400" src="[https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=23385238-e44e-11ea-bf88-a15b6c7adf9a](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=23385238-e44e-11ea-bf88-a15b6c7adf9a)"></iframe>
-
-  
+<iframe frameborder="0" class="juxtapose" width="100%" height="400" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=23385238-e44e-11ea-bf88-a15b6c7adf9a"></iframe>
 
 Звісно, це не все що спільнота хотіла зробити, але у порівнянні з тим що було це досить значний крок вперед до сталого розвитку Пологів на шляху створення та поширення вільних та відкритих даних. Це наочний приклад того, як ми всі гуртом крок за кроком можемо робити внесок в розбудову нашої країни.
+
+[^1]: <https://www.youtube.com/watch?v=-9exEJG81W0> перша сесія від [Dyoma](https://www.openstreetmap.org/user/Dyoma)
+[^2]: <https://www.youtube.com/watch?v=qjb36-8UxmQ> друга сесія від [Dyoma](https://www.openstreetmap.org/user/Dyoma)
+[^3]: <https://www.youtube.com/watch?v=O_Q5XTW04xo> сесія від [velmyshanovnyi](https://www.openstreetmap.org/user/velmyshanovnyi)
